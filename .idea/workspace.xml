@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7cc2413-739d-43ae-9ef0-e7a5c0f38d3a" name="Default" comment="" />
+    <list default="true" id="b7cc2413-739d-43ae-9ef0-e7a5c0f38d3a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/shiro-test/target/" />
@@ -70,7 +73,7 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shiro-web/src/main/java/com/wdy/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
+            <state relative-caret-position="380">
               <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
             </state>
           </provider>
@@ -91,6 +94,9 @@
     <findStrings>
       <find>getpasswordBy</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,6 +165,7 @@
     <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -178,90 +185,6 @@
               <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
               <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wdy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wdy" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wdy" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wdy-shiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wdy-shiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -275,7 +198,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/shiro-web/src/main/java/com/wdy" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shiro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -593,7 +516,7 @@
       <workItem from="1540984895584" duration="4314000" />
       <workItem from="1540996529517" duration="1191000" />
       <workItem from="1541049339572" duration="16875000" />
-      <workItem from="1541295393922" duration="2043000" />
+      <workItem from="1541295393922" duration="3546000" />
     </task>
     <servers />
   </component>
@@ -630,7 +553,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44182000" />
+    <option name="totallyTimeSpent" value="45685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
@@ -654,11 +577,11 @@
       <window_info id="Image Layers" order="1" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Run" order="9" weight="0.3019943" />
       <window_info anchor="bottom" id="Spring" order="1" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32884097" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19638069" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19638069" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="3" side_tool="true" weight="0.3297587" />
@@ -1022,7 +945,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shiro-web/src/main/java/com/wdy/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
+        <state relative-caret-position="380">
           <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
         </state>
       </provider>
